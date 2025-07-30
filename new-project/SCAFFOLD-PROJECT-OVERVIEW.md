@@ -1,5 +1,8 @@
 # Scaffold project overview
 
+- Condition - new project, no specs or docs.
+- Goal - create a `PROJECT.md` file for a project
+
 ```plaintext
 You are now set to begin work in a new project. To optimize for your success you should review and analyze this project and create a `PROJECT.md` file in the `docs/` directory that should contain the following information from your learning and analysis of the project:
 
