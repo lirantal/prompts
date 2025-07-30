@@ -11,5 +11,5 @@ You are now set to begin work in a new project. To optimize for your success you
 - Tech Stack
 - General Project Architecture & Key Patterns
 
-The goal of this task is to create a holistic project overview so that it can act as your foundation and basis for future software development work on this project such as developing new features, writing tests, and fixing bugs.
+The goal of this task is to create a holistic project overview from a technical perspective of software engineering so that it can act as your foundation and basis for future software development work on this project such as developing new features, writing tests, and fixing bugs.
 ```
